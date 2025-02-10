@@ -1,16 +1,9 @@
-## Hi there 👋 I am Mitali Chouthai, an aspiring ML Engineer!
+## Hi there 👋 I am Mitali Chouthai
 
-<!--
-**MitaliChouthai/MitaliChouthai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Machine Learning Engineer | Data Scientist  
+🚀 Passionate about AI, LLMs, and building intelligent systems  
+📍 Exploring ML opportunities in USA( Open to relocation within USA)
 
-Here are some ideas to get you started:
+##About Me
+🎓 Graduated in December 2024 with MS in Information Systems (Focus was on ML & AI )
 
-- 🔭 I recently graduated and I'm on my job hunt as a Machine Learning Engineer/Data Scientist
-- 🌱 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
