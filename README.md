@@ -15,7 +15,7 @@
 - Designed and deployed a **product description summarization solution** for ERP data, enhancing data-driven decision-making.  
 - Developed a **conversational chatbot** using TF-IDF, embeddings, and RAG models, improving response times and user satisfaction.
   
-### Michelin | Data Engineer
+### Michelin | DevOps Engineer
 📅 [Jul 2021] – [Aug 2022]  
 - Developed and deployed Talend-based Java binaries and ETL pipelines to process and integrate complex factory data.  
 - Administered and maintained Windows/Linux infrastructure, ensuring high availability and security compliance.  
