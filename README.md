@@ -11,7 +11,7 @@
 
 ### Persistent Systems | Data Science Intern
 📅 [Jul 2023] – [Dec 2023]  
-- Built and optimized a scalable pipeline for automating data extraction from unstructured multi-format health documents (87% accuracy, 60% reduction in manual effort).  
+- Built and optimized a scalable pipeline for automating data extraction from unstructured multi-format health documents .  
 - Designed and deployed a **product description summarization solution** for ERP data, enhancing data-driven decision-making.  
 - Developed a **conversational chatbot** using TF-IDF, embeddings, and RAG models, improving response times and user satisfaction.
   
